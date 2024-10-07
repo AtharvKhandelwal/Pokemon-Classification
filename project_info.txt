@@ -1,0 +1,20 @@
+The Problem Statement : 
+    given a pokemon image, detect the image belongs to which of the following pokemon   
+    * pikachu
+    * Bulbasaur
+    * Charmandar
+Image Representatin:
+    images are prented as pixels.
+    
+
+THE MODEL:
+    1. Multi-layer Neural Network MODEL
+    2. Activation Function - "relu/tanh"
+    3. Final layer units : 3
+    4. Final layer Activation Function- softmax
+
+The softmax Function:
+    1. It is generalised version of sigmoid function.
+    2. It generates probability distribution accross multiple classes.
+
+         
